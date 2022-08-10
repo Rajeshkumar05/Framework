@@ -12,7 +12,7 @@ public class DemoforMaven {
 	@Test
 	public void testHello()
 	{
-		//hai
+		//ha
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\raselvam\\Downloads\\selenium\\chromedriver.exe"); 
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.facebook.com/");	
